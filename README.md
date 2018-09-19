@@ -27,3 +27,8 @@ Third, add the LED lights. One pin goes to the power rail. The other goes to the
 ## Digital Schematic
 When the PIR sensor triggers the MOSFET, drain and source are shorted and current can flow, turning on the LED lights.
 
+# Final Product
+![chuachua-lamp dancinglights](https://user-images.githubusercontent.com/5471571/45726935-6c299680-bb76-11e8-85cf-3c47755ada65.jpg)
+![chuachua-lamp dancinglightsday](https://user-images.githubusercontent.com/5471571/45726936-6c299680-bb76-11e8-9dce-62ae504fb989.jpg)
+![chuachua-lamp dancinglightsnodemcu](https://user-images.githubusercontent.com/5471571/45726937-6c299680-bb76-11e8-9c50-f2f72b047797.jpg)
+
