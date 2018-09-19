@@ -32,3 +32,23 @@ When the PIR sensor triggers the MOSFET, drain and source are shorted and curren
 ![chuachua-lamp dancinglightsday](https://user-images.githubusercontent.com/5471571/45726936-6c299680-bb76-11e8-9dce-62ae504fb989.jpg)
 ![chuachua-lamp dancinglightsnodemcu](https://user-images.githubusercontent.com/5471571/45726937-6c299680-bb76-11e8-9c50-f2f72b047797.jpg)
 
+# Concepts
+## Power up: Feed activation energy 
+### Power supply
+
+## Control Logic: Orchestrate events
+### MOSFET: Switch on/off by voltage
+### Transistor: Switch on/off by current
+
+## Glue: Assist functioning together
+### Pull-up resistor: 
+
+## Sensors: Sense elements in the environment
+### Sense movement 
+#### Passive Infrared (PIR) motion sensor
+### Sense light 
+#### Light Detect Resistor (LDR)
+### Sense kinetics: movement, force/pressure
+### Sense energy: light, sound, heat
+### Sense chemistry: water, moisture, CO2   
+
